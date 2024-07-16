@@ -1,5 +1,5 @@
 # Food Pick Up Ordering
-## User Stories:
+### User Stories:
 
 ### Customer 
 - As a customer, I want to be able to view the available menu items, because I want to customize my order
