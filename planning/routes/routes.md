@@ -1,3 +1,6 @@
+## :map: Routes :map: 
+
+```
 CUSTOMERS
 ----------------------------------------
 Browse     GET     /customers           
@@ -55,3 +58,5 @@ Read       GET     /sms/:id
 Edit       POST    /sms/:id
 Add        POST    /sms
 Delete     POST    /sms/:id/delete
+
+```
